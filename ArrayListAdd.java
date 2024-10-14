@@ -5,6 +5,6 @@ public class ArrayListAdd{
         str.add("Param");
         str.add("Dongre");
 
-        System.out.println("ArrayList is " + str);
+        System.out.println("ArrayList is : " + str);
     }
 }
